@@ -1,2 +1,2 @@
-# IEEE-1
-An example project for IEEE Aun Chapter Front-End BootCamp.
+# IEEE AUN Chapter FrontEnd BootCamp for Secondary School Students
+Example of projects that will be completed by students by the end of the Bootcamp.

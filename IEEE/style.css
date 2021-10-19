@@ -1,0 +1,25 @@
+body,
+html{
+    font-family: monospace;
+    font-size: large;
+    background-color: aliceblue;
+}
+.header{
+    text-align: center;
+}
+.about-me-text{
+    padding-left: 2em;
+}
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1em;
+    height: 10em;
+    width: 15em;
+    border-radius: 100%;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+}
